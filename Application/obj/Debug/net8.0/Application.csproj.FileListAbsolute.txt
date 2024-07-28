@@ -1,0 +1,17 @@
+/Users/jason.flynn/Code/Reactivities/Application/bin/Debug/net8.0/Application.deps.json
+/Users/jason.flynn/Code/Reactivities/Application/bin/Debug/net8.0/Application.dll
+/Users/jason.flynn/Code/Reactivities/Application/bin/Debug/net8.0/Application.pdb
+/Users/jason.flynn/Code/Reactivities/Application/bin/Debug/net8.0/Domain.dll
+/Users/jason.flynn/Code/Reactivities/Application/bin/Debug/net8.0/Persistence.dll
+/Users/jason.flynn/Code/Reactivities/Application/bin/Debug/net8.0/Domain.pdb
+/Users/jason.flynn/Code/Reactivities/Application/bin/Debug/net8.0/Persistence.pdb
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Application.csproj.AssemblyReference.cache
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfoInputs.cache
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Application.AssemblyInfo.cs
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Application.csproj.CoreCompileInputs.cache
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Applicat.44B5EDA2.Up2Date
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Application.dll
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/refint/Application.dll
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/Application.pdb
+/Users/jason.flynn/Code/Reactivities/Application/obj/Debug/net8.0/ref/Application.dll
